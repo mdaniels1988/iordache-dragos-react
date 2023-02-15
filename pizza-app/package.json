@@ -22,7 +22,7 @@
     "react-redux": "^7.2.4",
     "redux": "^4.1.0",
     "redux-thunk": "^2.3.0",
-    "stripe": "^8.169.0"
+    "stripe": "^8.222.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.3.1",
